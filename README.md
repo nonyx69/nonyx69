@@ -1,5 +1,5 @@
-## Hello team 👋
-# I'm Noa (Nonyx)
+# Hello team 👋
+## I'm Noa (Nonyx)
 
 💻 Computer Science Student
 🌐 Web Developer | 🎮 Unity / Game Development
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About me
+# 🚀 About me
 - 🎓 Bachelor’s student in Computer Science & Software Development at IPSSI
 - 🔭 I work on web and game projects
 - 🌱 I’m constantly learning 
@@ -15,8 +15,8 @@
 
 ---
 
-## 🛠️ Technologies
-# 🌐 Web Development
+# 🛠️ Technologies
+## 🌐 Web Development
 - HTML / CSS
 - Java-Script
 - PHP
@@ -24,27 +24,15 @@
 - Python
 - Git & GitHub
 
-# 🎮 Game Development
+## 🎮 Game Development
 - Unity
 - Unreal Engine
 - 2D and 3D game development
 
-# 🧰 Tools & Environments
+## 🧰 Tools & Environments
 - Git / GitHub
 - Visual Studio
 - Xampp
-
----
-
-## 📂 Projects
-- 🔗 **Nonyx** – projets personnels
-- 🔗 projet-web
-- 🔗 portfolio
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nonyx69&show_icons=true&theme=dark)
 
 ---
 
