@@ -25,7 +25,7 @@ Stats :
 
 🧑‍💻 Langages les plus utilisés :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
