@@ -30,8 +30,11 @@ Stats :
 - HTML / CSS
 - Java-Script
 - PHP
-- SQL /Databases
+- Symfony
+- SQL / Databases
 - Python
+- ReactJs
+- Java
 - Git & GitHub
 
 ## 🎮 Game Development
@@ -41,8 +44,8 @@ Stats :
 
 ## 🧰 Tools & Environments
 - Git / GitHub
-- Visual Studio
-- Xampp
+- Visual Studio / Suite JetBrains
+- Xampp / Wamp
 
 ---
 
