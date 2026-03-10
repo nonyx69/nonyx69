@@ -21,11 +21,8 @@ Stats :
 <div align="center">
   <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=nonyx69&theme=tokyonight&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" />
 </div>
+
 <div align="center">
-  <img height="300em" src="https://api.githubtrends.io/user/svg/nonyx69/repos?time_range=one_year&theme=synthwaves" />
-</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nonyx69&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonyx69&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
