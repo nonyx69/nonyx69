@@ -23,7 +23,8 @@ Stats :
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonyx69&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
+  <img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonyx69&theme=synthwave&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=rich%20text%20format,shaderlab,twig,cmake,dockerfile,makefile,glsl,hlsl,objective-c,objective-c++,batchfile,powershell,shell"/>
 </div>
 
 
