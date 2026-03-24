@@ -34,12 +34,12 @@ Stats :
 # 🛠️ Technologies
 ## 🌐 Web Development
 - HTML / CSS
-- Java-Script
+- Java-Script /TypeScript
 - PHP
 - Symfony
 - SQL / Databases
 - Python
-- ReactJs
+- ReactJs / Angular
 - Java
 - Git & GitHub
 
