@@ -34,24 +34,24 @@ Stats :
 # 🛠️ Technologies
 ## 🌐 Web Development
 - HTML / CSS
-- Java-Script /TypeScript
+- Java-Script / TypeScript
 - PHP
 - Symfony
-- SQL / Databases
+- SQL, NoSQL / Databases
 - Python
 - ReactJs / Angular
 - Java
-- Git & GitHub
 
 ## 🎮 Game Development
 - Unity
 - Unreal Engine
-- 2D and 3D game development
+- 2D, 3D and VR game development
 
 ## 🧰 Tools & Environments
+- Linux
 - Git / GitHub
 - Visual Studio / Suite JetBrains
-- Xampp / Wamp
+- Xampp / Wamp / Lamp
 
 ---
 
