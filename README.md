@@ -2,7 +2,7 @@
 ## I'm Noa (Nonyx)
 
 💻 Computer Science Student
-🌐 Web Developer | 🎮 Unity / Game Development
+🌐 Web Developer | 🎮 Unity / Game Development / VR Development
 📍 Lyon, France – IPSSI
 
 ---
