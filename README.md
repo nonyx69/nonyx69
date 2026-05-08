@@ -3,12 +3,12 @@
 
 💻 Computer Science Student
 🌐 Web Developer | 🎮 Unity / Game Development / VR Development
-📍 Lyon, France – IPSSI
+📍 Lyon, France
 
 ---
 
 # 🚀 About me
-- 🎓 Bachelor’s student in Computer Science & Software Development at IPSSI
+- 🎓 Bachelor’s student in Computer Science & Software Development
 - 🔭 I work on web and game projects
 - 🌱 I’m constantly learning 
 - ⚡ I love understanding how things work
